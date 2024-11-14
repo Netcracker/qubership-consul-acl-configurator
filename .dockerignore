@@ -1,0 +1,14 @@
+.git
+.idea
+.gitignore
+demo
+dev
+documentation
+dr
+DVM
+integration-tests/runner
+jenkins
+openshift
+venv
+description.yaml
+README.md
